@@ -31,12 +31,15 @@ Ce projet répond à ces défis grâce à une approche combinant analyse descrip
 # 📋 Étapes Clés du Projet
 ## 1️⃣ Exploration et Préparation des Données
 
+ ![image](https://github.com/user-attachments/assets/6f2bc1bd-f016-489a-9cb0-00ef3c204bb2)
+
+ ![image](https://github.com/user-attachments/assets/54b038f0-54c2-4b5e-bb17-30e1ce1ed187)
+
     Nettoyage des données transactionnelles client.
     Création des scores RFM et segmentation initiale (ex. : Champions, Dormants).
 
-    ![image](https://github.com/user-attachments/assets/6f2bc1bd-f016-489a-9cb0-00ef3c204bb2)
-
-    ![image](https://github.com/user-attachments/assets/54b038f0-54c2-4b5e-bb17-30e1ce1ed187)
+   
+    
 
 
 
