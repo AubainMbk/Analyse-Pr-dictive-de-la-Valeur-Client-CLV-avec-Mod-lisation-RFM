@@ -1,5 +1,8 @@
 # 📊 Prédiction et Segmentation de la Valeur Vie Client (CLV) : Stratégies Marketing Basées sur les Données
 
+![image](https://github.com/user-attachments/assets/be0b76d2-a438-45df-9ab4-62de292e59bd)
+
+
 ## 🎯 Objectif du Projet
 
 Ce projet vise à transformer la manière dont les entreprises analysent et optimisent la valeur de leur clientèle. À l’aide d’approches avancées en machine learning et d’une segmentation RFM (Récence, Fréquence, Montant), il propose une stratégie concrète et data-driven pour :
@@ -18,7 +21,8 @@ Dans un marché de plus en plus compétitif, les entreprises cherchent à maximi
 
 Ce projet répond à ces défis grâce à une approche combinant analyse descriptive, modélisation prédictive, et visualisation interactive.
 
-## 🛠 Technologies et Outils Utilisés
+# 🛠 Technologies et Outils Utilisés
+
 ## 🔍 Analyse et Modélisation :
 
     Python : Traitement des données, modélisation RFM, et machine learning (XGBoost, régression linéaire).
@@ -29,6 +33,7 @@ Ce projet répond à ces défis grâce à une approche combinant analyse descrip
     Power BI : Création d’un tableau de bord interactif pour explorer les insights et suivre les performances des segments.
 
 # 📋 Étapes Clés du Projet
+
 ## 1️⃣ Exploration et Préparation des Données
 
  ![image](https://github.com/user-attachments/assets/6f2bc1bd-f016-489a-9cb0-00ef3c204bb2)
@@ -36,12 +41,7 @@ Ce projet répond à ces défis grâce à une approche combinant analyse descrip
  ![image](https://github.com/user-attachments/assets/54b038f0-54c2-4b5e-bb17-30e1ce1ed187)
 
     Nettoyage des données transactionnelles client.
-    Création des scores RFM et segmentation initiale (ex. : Champions, Dormants).
-
-   
-    
-
-
+    Création des scores RFM et segmentation initiale (ex. : Champions, Dormants)
 
 ## 2️⃣ Modélisation Prédictive de la CLV
 
@@ -75,7 +75,7 @@ Pour les Entreprises :
 ![image](https://github.com/user-attachments/assets/c4778b47-99d9-406e-a87f-62a0a887087d)
 
 
-Un tableau de bord Power BI accompagne ce projet pour permettre aux entreprises de :
+Ce tableau de bord Power BI accompagne le projet pour permettre aux entreprises de :
 
     -Explorer les segments clients en temps réel.
     -Suivre les performances des stratégies marketing.
