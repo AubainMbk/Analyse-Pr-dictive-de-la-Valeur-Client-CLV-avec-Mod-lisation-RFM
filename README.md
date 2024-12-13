@@ -82,4 +82,6 @@ Ce tableau de bord Power BI accompagne le projet pour permettre aux entreprises 
     -Prendre des décisions éclairées et réactives.
 
 
-# 📩 Contactez-moi pour découvrir comment ce projet peut transformer vos stratégies marketing et maximiser votre rentabilité.
+# 📩 aubainmbokou1@gmail.com
+# Contactez-moi pour découvrir comment ce projet peut transformer vos stratégies marketing et maximiser votre rentabilité.
+
