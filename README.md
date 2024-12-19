@@ -1,6 +1,7 @@
 # 📊 Prédiction et Segmentation de la Valeur Vie Client (CLV) : Stratégies Marketing Basées sur les Données
 
-![image](https://github.com/user-attachments/assets/be0b76d2-a438-45df-9ab4-62de292e59bd)
+![image](https://github.com/user-attachments/assets/0355cf55-4d79-4669-8c3e-be92c43a5fce)
+
 
 
 ## 🎯 Objectif du Projet
