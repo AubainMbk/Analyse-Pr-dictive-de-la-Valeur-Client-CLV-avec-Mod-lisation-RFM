@@ -73,7 +73,8 @@ Pour les Entreprises :
 
 # 📊 Tableau de Bord Interactif
 
-![image](https://github.com/user-attachments/assets/c4778b47-99d9-406e-a87f-62a0a887087d)
+![image](https://github.com/user-attachments/assets/269c42c3-ea7e-4f27-a5dc-d8f03bbbb5f1)
+
 
 
 Ce tableau de bord Power BI accompagne le projet pour permettre aux entreprises de :
